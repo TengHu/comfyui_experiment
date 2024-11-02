@@ -1,6 +1,5 @@
 # comfyui_experiment
 
-
-# TODO
-- set environment variables
-- build tools, automate work
+# environement variables
+- runpod github api key
+- civitai api key
